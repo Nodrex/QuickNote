@@ -1,0 +1,43 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Quick_note.QuickNote"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DataContext="{d:DesignData SampleData/MainViewModelSampleData.xaml}"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="PortraitOrLandscape"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <phone:Pivot Title="Quick Note" Name="MainPivot" SelectionChanged="ChangePivotItem">
+            <phone:PivotItem Header="Note">
+                <Grid x:Name="NoteLayout" Background="Transparent" Grid.Row="2">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Button Content="Save" x:Name="Save" Click="Save_Click" Grid.Row="0" Grid.Column="0" />
+                    <TextBox TextWrapping="Wrap"  Name="MainTextBox" Grid.Row="1" Grid.Column="0"  />
+                </Grid>
+            </phone:PivotItem>
+            <phone:PivotItem Header="List">
+                <phone:LongListSelector Name="Note_List" FontSize="50"  SelectionChanged="SelectNote"/>
+            </phone:PivotItem>
+            <phone:PivotItem Header="Functions">
+                <Grid x:Name="FunctionsLayout" Background="Transparent">
+                    <StackPanel Background="Transparent">
+                        <Button Content="Send all to mail" Click="SendAllToMail_Click"/>
+                        <TextBlock TextWrapping="Wrap"/>
+                        <Button Content="Delete all" Click="DeleteAllNotes_Click"/>
+                    </StackPanel>
+                </Grid>
+            </phone:PivotItem>
+        </phone:Pivot>
+    </Grid>
+</phone:PhoneApplicationPage>

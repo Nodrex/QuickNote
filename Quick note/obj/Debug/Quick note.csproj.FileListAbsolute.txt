@@ -1,0 +1,40 @@
+c:\users\tamta\documents\visual studio 2012\Projects\Quick note\Quick note\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\tamta\documents\visual studio 2012\Projects\Quick note\Quick note\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\tamta\documents\visual studio 2012\Projects\Quick note\Quick note\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\tamta\documents\visual studio 2012\Projects\Quick note\Quick note\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\tamta\documents\visual studio 2012\Projects\Quick note\Quick note\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\tamta\documents\visual studio 2012\Projects\Quick note\Quick note\Bin\Debug\Quick note.dll
+c:\users\tamta\documents\visual studio 2012\Projects\Quick note\Quick note\Bin\Debug\Quick note.pdb
+c:\users\tamta\documents\visual studio 2012\Projects\Quick note\Quick note\Bin\Debug\AppManifest.xaml
+c:\users\tamta\documents\visual studio 2012\Projects\Quick note\Quick note\Bin\Debug\Quick_note_Debug_AnyCPU.xap
+c:\users\tamta\documents\visual studio 2012\Projects\Quick note\Quick note\obj\Debug\App.g.cs
+c:\users\tamta\documents\visual studio 2012\Projects\Quick note\Quick note\obj\Debug\MainPage.g.cs
+c:\users\tamta\documents\visual studio 2012\Projects\Quick note\Quick note\obj\Debug\Quick note.g.resources
+c:\users\tamta\documents\visual studio 2012\Projects\Quick note\Quick note\obj\Debug\Quick_note.Resources.AppResources.resources
+c:\users\tamta\documents\visual studio 2012\Projects\Quick note\Quick note\obj\Debug\Quick note.csproj.GenerateResource.Cache
+c:\users\tamta\documents\visual studio 2012\Projects\Quick note\Quick note\obj\Debug\Quick note.dll
+c:\users\tamta\documents\visual studio 2012\Projects\Quick note\Quick note\obj\Debug\Quick note.pdb
+c:\users\tamta\documents\visual studio 2012\Projects\Quick note\Quick note\obj\Debug\XapCacheFile.xml
+c:\users\tamta\documents\visual studio 2012\Projects\Quick note\Quick note\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\tamta\documents\visual studio 2012\Projects\Quick note\Quick note\obj\Debug\SecondPage.g.cs
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\Quick note.newest2.bak\Quick note\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\Quick note.newest2.bak\Quick note\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\Quick note.newest2.bak\Quick note\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\Quick note.newest2.bak\Quick note\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\Quick note.newest2.bak\Quick note\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\Quick note.newest2.bak\Quick note\Bin\Debug\Quick note.dll
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\Quick note.newest2.bak\Quick note\Bin\Debug\Quick note.pdb
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\Quick note.newest2.bak\Quick note\Bin\Debug\AppManifest.xaml
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\Quick note.newest2.bak\Quick note\Bin\Debug\Properties\WMAppManifest.xml
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\Quick note.newest2.bak\Quick note\Bin\Debug\Quick_note_Debug_AnyCPU.xap
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\Quick note.newest2.bak\Quick note\Bin\Debug\Microsoft.Phone.Controls.dll
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\Quick note.newest2.bak\Quick note\obj\Debug\Quick note.csprojResolveAssemblyReference.cache
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\Quick note.newest2.bak\Quick note\obj\Debug\App.g.cs
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\Quick note.newest2.bak\Quick note\obj\Debug\MainPage.g.cs
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\Quick note.newest2.bak\Quick note\obj\Debug\SecondPage.g.cs
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\Quick note.newest2.bak\Quick note\obj\Debug\Quick note.g.resources
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\Quick note.newest2.bak\Quick note\obj\Debug\Quick_note.Resources.AppResources.resources
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\Quick note.newest2.bak\Quick note\obj\Debug\Quick note.csproj.GenerateResource.Cache
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\Quick note.newest2.bak\Quick note\obj\Debug\Quick note.dll
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\Quick note.newest2.bak\Quick note\obj\Debug\Quick note.pdb
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\Quick note.newest2.bak\Quick note\obj\Debug\XapCacheFile.xml
