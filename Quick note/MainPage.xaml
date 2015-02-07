@@ -22,7 +22,7 @@
                         <RowDefinition Height="Auto"/>
                         <RowDefinition Height="*"/>
                     </Grid.RowDefinitions>
-                    <Button Content="Save" x:Name="Save" Click="Save_Click" Grid.Row="0" Grid.Column="0" />
+                    <Button Content="Save :)" x:Name="Save" Click="Save_Click" Grid.Row="0" Grid.Column="0" />
                     <TextBox TextWrapping="Wrap"  Name="MainTextBox" Grid.Row="1" Grid.Column="0"  />
                 </Grid>
             </phone:PivotItem>
